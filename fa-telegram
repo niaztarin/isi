@@ -281,9 +281,6 @@
                         <div class="mt-2">
                             <div>
                                 <div class="mb-2">
-                                    <div class="text-dark"><i class="fab fa-telegram mr-1"></i><span>https://t.me/EsmaeilJalali</span>
-                                    </div>
-                                <div class="mb-2">
                                     <i class=""></i>
                                     <div class="text-dark"><i class="fab fa-twitter mr-1"></i><span>https://twitter.com/</span>
                                     </div>
@@ -315,7 +312,7 @@
             <div class="footer-nav">
                 <nav role="navigation">
                     <ul class="nav justify-content-center">
-                        <li class="nav-item"><a class="nav-link" href="https://twitter.com/" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
+                        <li class="nav-item"><a class="nav-link" href="https://twitter.com/" title="Twitter"><i class="fab fa-telegram"></i><span class="menu-title sr-only">Twitter</span></a>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
                         </li>
